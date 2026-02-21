@@ -75,4 +75,5 @@ class Restaurant {
             System.out.println("Pesanan " + getNamaMakanan(index) + " ditolak karena stok tidak cukup!");
         }
     }
+
 }
